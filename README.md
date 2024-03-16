@@ -1,1 +1,1 @@
-# MB_prognosis
+# Neuroblastoma_prognosis
