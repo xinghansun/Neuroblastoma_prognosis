@@ -1,0 +1,5 @@
+# sample description:
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0694-1
+
+# meta info description:
+https://0-www-ncbi-nlm-nih-gov.brum.beds.ac.uk/bioproject/PRJNA214797
